@@ -60,7 +60,7 @@ FIFA足球|192|6
 ```
 
 ### 超链接
-[知乎](sttps://www.zhihu.com "点击进入知乎")
+[知乎](https://www.zhihu.com "点击进入知乎")
 
 
 
